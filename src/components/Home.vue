@@ -1,5 +1,5 @@
 <template>
-   <div class="px-5 text position-absolute top-50 start-50 translate-middle">
+   <div class="px-5 text position-absolute top-50 start-50 translate-middle" style="text-align:center">
       <h1>Hello Fam</h1>
       <p>cruising down the street with my six fo, jockin the bihces, slappin' the hoes</p>
    </div>
